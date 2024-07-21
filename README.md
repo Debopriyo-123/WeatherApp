@@ -1,2 +1,2 @@
-# WeatherApp
-Using Html,CSS
+# Weather_App
+Using Weather api
